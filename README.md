@@ -1,2 +1,3 @@
-# CodeClauseInternship_Plagirism-Checker
-Plagirism Checker
+# Code_Clause-Plagirism_Checker
+Cheating is the common term for plagiarism. Plagiarism is the act of someone taking another person's words or creative work and using it in their own work under that person's name. For instance, it would be considered plagiarised content if someone wrote an article for geeksforgeeks and then used text from another website or resource.
+In this project I'll use the check_plagiarism() method to compare two strings in order to find instances of plagiarism. To do this, two different strings are stored in separate variables and passed as arguments to the check_plagiarism() function after the matched sequence has been converted into a preprocessed text using the preprocess_text() function. The final result is then shown by displaying a message whether the given text is plagarized or not.
